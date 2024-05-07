@@ -1,21 +1,21 @@
 # 一、介绍
 
-本项目为**Shell API**提供最新的模型列表、模型参数等信息。
+本项目为 **OpenAI Next 产业联盟** 提供最新的模型列表、模型参数等信息。
 
 当然，你也可以直接使用这个服务，获取最新的模型列表、模型参数、模型价格等信息。
 
 # 二、使用方法
 
 ## 1. 直接使用
-服务地址：`https://api.shell-api.com`
+服务地址：`https://api.openai-next.com`
 
 ## 2. 部署到自己的服务器
 ```
 # 克隆项目
-git clone https://github.com/Kadxy/shell-api-option-service.git
+git clone https://github.com/OpenAI-Next/Model-List.git
 
 # 进入目录
-cd shell-api-option-service
+cd Model-List
 
 # 拉取镜像并运行
 docker-compose up -d
